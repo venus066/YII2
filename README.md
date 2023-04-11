@@ -15,7 +15,7 @@
    $  yarn mix
    $  php yii serve
 ```
-you can fonfirm the http://localhost:8080/
+you can confirm the http://localhost:8080/
 
 ### fetch data
 ```
